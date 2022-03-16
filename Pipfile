@@ -7,10 +7,10 @@ name = "pypi"
 tqdm = "*"
 pandas = "*"
 matplotlib = "*"
-obp = "*"
 scikit-learn = "*"
 seaborn = "*"
 torch = "*"
+obp = "==0.4.1"
 
 [dev-packages]
 
