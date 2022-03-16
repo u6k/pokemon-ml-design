@@ -3,9 +3,6 @@ from pokemon_ml_design.model import IPWModel, RuleBasedModel, DeterministicRuleB
 from pokemon_ml_design.evaluate import validate, evaluate
 
 def main():
-    print('synthesize data')
-    training_data, validation_data, test_data = synthesize_data()
-
     models = dict(IPW=IPWModel(), RULE_BASED=DeterministicRuleBasedModel())
 
     action_choices_validation = dict()
