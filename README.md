@@ -1,7 +1,5 @@
 # u6k/pokemon-ml-design _(pokemon-ml-design)_
 
-_TODO:_ Badges
-
 > 『「施策デザインのための機械学習入門」を完全に理解したサトシくんがポケモン捕獲アルゴリズムを実装する話』をJupyterノートブック版
 
 ## Background
